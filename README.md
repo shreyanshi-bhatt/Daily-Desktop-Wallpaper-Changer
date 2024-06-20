@@ -57,4 +57,8 @@ Automate your desktop's ambiance with the Daily Desktop Wallpaper Changer. Enhan
 - Check the Last Run Result column in Task Scheduler to verify if the task ran successfully.
 - Monitor the task initially to ensure it changes the wallpaper as expected and handles any errors appropriately.
 
+# Output:
+![image](https://github.com/shreyanshi-bhatt/Daily-Desktop-Wallpaper-Changer/assets/114408921/ddd380fd-4685-4f39-a106-d420a570d220)
+
+
 # Voila! Please don't forget to star ⭐ the repo if it helped you. Thanks - SB 🙋🏻‍♀️
