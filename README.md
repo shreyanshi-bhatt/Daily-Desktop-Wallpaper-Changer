@@ -1,10 +1,13 @@
-# Daily-Desktop-Wallpaper-Changer ✨
-Automate your desktop's ambiance with the Daily Desktop Wallpaper Changer. Enhance productivity and creativity by scheduling daily updates of stunning wallpapers from Wallhaven, tailored to your preferences. Customize paths easily and enjoy a fresh backdrop effortlessly. Elevate your desktop experience today!
+# Everyday-Windows-Wallpaper-Changer (Python Automation Project) ✨
+Automate your desktop's ambiance with the Daily Windows Desktop Wallpaper Changer. Enhance productivity and creativity by scheduling daily updates of stunning wallpapers from Wallhaven, tailored to your preferences. Elevate your desktop experience today!
+
+❗❗ Note: Wallpapers are chosen randomly, and customization of the main Wallhaven URL is possible. Be sure to adjust the web scraping code if the HTML structure changes after customization.
 
 # Installation 💻
 
 1. **Set Up**:
    - Clone this repository to your local machine.
+     `git clone https://github.com/shreyanshi-bhatt/Daily-Desktop-Wallpaper-Changer.git`
    - Install necessary Python dependencies (requests, beautifulsoup4, schedule, etc).
 
 2. **Change Paths in `main.py`**:
@@ -57,8 +60,16 @@ Automate your desktop's ambiance with the Daily Desktop Wallpaper Changer. Enhan
 - Check the Last Run Result column in Task Scheduler to verify if the task ran successfully.
 - Monitor the task initially to ensure it changes the wallpaper as expected and handles any errors appropriately.
 
-# Output:
+# Old Wallpaper:
+![image](https://github.com/shreyanshi-bhatt/Daily-Desktop-Wallpaper-Changer/assets/114408921/0e82130e-78e4-4304-b8ee-3ea2e148f55e)
+
+
+# Test Output:
 ![image](https://github.com/shreyanshi-bhatt/Daily-Desktop-Wallpaper-Changer/assets/114408921/ddd380fd-4685-4f39-a106-d420a570d220)
+
+# New Wallpaper:
+![image](https://github.com/shreyanshi-bhatt/Daily-Desktop-Wallpaper-Changer/assets/114408921/f228e2dc-1438-4277-93fd-c2b5e6863589)
+
 
 
 # Voila! Please don't forget to star ⭐ the repo if it helped you. Thanks - SB 🙋🏻‍♀️
