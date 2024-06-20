@@ -19,42 +19,42 @@ Automate your desktop's ambiance with the Daily Desktop Wallpaper Changer. Enhan
    - Schedule the script to run daily at a specific time to update your desktop wallpaper automatically.
    - Here're the steps:
      
-## Open Task Scheduler:
+### 📂 Open Task Scheduler:
 
 - Press Win + R to open the Run dialog.
 - Type taskschd.msc and press Enter to open the Task Scheduler.
   
-## Create a New Task:
+### ⭐ Create a New Task:
 
 - In the Task Scheduler, go to Action > Create Task....
 - Name your task (e.g., "Daily Wallpaper Changer").
 - Optionally, provide a description for the task.
   
-## Configure Triggers:
+### 🔥 Configure Triggers:
 
 - Go to the Triggers tab and click New....
 - Choose how often you want the task to run (daily, weekly, etc.).
 - Set the start time (e.g., daily at 5:00 AM).
 
-## Configure Actions:
+### 🤖 Configure Actions:
 
 - Go to the Actions tab and click New....
 - Set the action to Start a program.
 - Browse and select the Python executable (python.exe), and in the Add arguments field, enter the path to your script (C:\path\to\python.exe C:\path\to\main.py).
 
-## Set Conditions and Settings:
+### 🛠 Set Conditions and Settings:
 
 - Optionally, configure conditions under the Conditions tab (e.g., power settings, idle conditions).
 - Review settings under the Settings tab and adjust as necessary.
 
-## Save and Test:
+### ✅ Save and Test:
 
 - Click OK to save the task.
 - Right-click on the task in the Task Scheduler and select Run to test if it executes correctly (change the time of wallpaper updation to current time for testing purpose).
 
-## Monitor and Debug:
+### 👩🏻‍💻 Monitor and Debug: 
 
 - Check the Last Run Result column in Task Scheduler to verify if the task ran successfully.
 - Monitor the task initially to ensure it changes the wallpaper as expected and handles any errors appropriately.
 
-# Voila! Please don't forget to star the repo if it helped you. Thanks - SB <3
+# Voila! Please don't forget to star ⭐ the repo if it helped you. Thanks - SB 🙋🏻‍♀️
